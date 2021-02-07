@@ -1,0 +1,11 @@
+type: Conveyor
+name: Парашный конвеер
+description: Конвеер из парашы. Лучше чем титан, но требует больше ресурсов. Из-за титана в составе параша поголубела (как Егор).
+requirements: [
+  parasha/2
+  titanium/1
+  lead/1
+]
+category: distribution
+speed: 0.16
+research: titanium-conveyor

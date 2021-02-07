@@ -1,0 +1,6 @@
+type: material
+name: Параша
+description: Парашный ресурс для парашный вещей.
+hardness: 1
+cost: 1
+color: AC8E6A

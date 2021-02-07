@@ -1,0 +1,23 @@
+type: MendProjector
+name: Парашный регенератор
+description: Параша.
+health: 1500
+size: 3
+itemCapacity: 50
+range: 250
+reload: 5
+phase: D587ED
+phaseBoost: 55
+phaseRangeBoost: 150
+color: 87ED89
+healPercent: 125
+consumes: {
+ power: 45
+}
+requirements: [
+  parasha/385
+  titanium/550
+  lead/355
+]
+category: effect
+research: mend-projector

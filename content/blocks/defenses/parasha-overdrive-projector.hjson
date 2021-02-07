@@ -1,0 +1,26 @@
+type: OverdriveProjector
+name: Парашный ускоритель
+description: Параша ваще.
+health: 500
+size: 4
+range: 400
+reload: 15
+speedBoost: 3.5
+speedBoostPhase: 2
+phaseRangeBoost: 100
+consumes: {
+ power: 75
+ items: {
+    items: [
+      parasha+/75
+      surge-alloy/1
+    ]
+  }
+}
+requirements: [
+  parasha/2325
+  titanium/3275
+  lead/2155
+]
+category: effect
+research: overdrive-projector

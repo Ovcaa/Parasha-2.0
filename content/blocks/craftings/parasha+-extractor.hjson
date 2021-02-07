@@ -1,0 +1,33 @@
+type: GenericSmelter
+name: Улучшенный экстрактор парашы
+description: Кто прочитал тот лох.
+liquidCapacity: 60
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+isOutputLiquids: true
+craftTime: 5
+updateEffect: smeltsmoke
+consumes: {
+  power: 15
+  items: {
+    items: [
+      thorium/5
+      titanium/4
+      scrap/5
+    ]
+  }
+}
+requirements: [
+  lead/50
+  thorium/80
+  silicon/60
+  parasha/50
+]
+category: crafting
+research: parasha-extractor
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: parasha+/5
+outputLiquid: parasha-water+/2

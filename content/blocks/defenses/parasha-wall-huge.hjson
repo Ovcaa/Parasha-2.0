@@ -1,0 +1,10 @@
+name: Огромная парашная стена
+description: Огромная стена из парашы. Чуть слабее титана.
+type: Wall
+health: 3510
+size: 3
+requirements: [
+  parasha/54
+]
+category: defense
+research: parasha-wall-large

@@ -1,0 +1,7 @@
+name: Парашная вода
+description: Появляется от произведение парашы. Как странно, лучше воды, но хуже криогена.
+temperature: 0.3
+heatCapacity: 0.7
+viscosity: 0.2
+effect: melting
+color: 828282

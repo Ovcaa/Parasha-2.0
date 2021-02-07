@@ -1,0 +1,17 @@
+type: RepairPoint
+name: Парашный ремонт
+description: Гавно если чесна.
+health: 650
+size: 2
+repairRadius: 100
+repairSpeed: 2.5
+consumes: {
+ power: 2.5
+}
+requirements: [
+  parasha/65
+  copper/85
+  lead/55
+]
+category: units
+research: repair-point

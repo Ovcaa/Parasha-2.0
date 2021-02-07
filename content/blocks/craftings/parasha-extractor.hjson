@@ -1,0 +1,31 @@
+type: GenericSmelter
+name: Экстрактор параши
+description: Производит парашу из гавна.
+liquidCapacity: 60
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+isOutputLiquids: true
+craftTime: 4
+updateEffect: smeltsmoke
+consumes: {
+  power: 10
+  items: {
+    items: [
+      copper/2
+      lead/2
+      scrap/3
+    ]
+  }
+}
+requirements: [
+  lead/100
+  scrap/175
+]
+category: crafting
+research: kiln
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: parasha/4
+outputLiquid: parasha-water/1

@@ -1,0 +1,7 @@
+name: Улучшенная парашная вода
+description: Появляется от произведение улучшенной парашы. Как не странно, лучше воды, и лучше криогена.
+temperature: 0.2
+heatCapacity: 1
+viscosity: 0.1
+effect: melting
+color: AFAFAF

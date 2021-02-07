@@ -1,0 +1,21 @@
+type: CoreBlock
+name: "Ядро: Параша"
+description: Прочная параша. Хранит дохуя ресурсов.
+details: Как? 
+size: 6
+health: 15000
+itemCapacity: 21000
+
+requirements: [
+    copper/12000
+    lead/12000
+    parasha/10000
+    parasha+/5000
+    titanium/10000
+    silicon/6000
+]
+category: effect
+research: core-nucleus
+
+unitType: parasha-unit
+unitCapModifier: 32

@@ -1,0 +1,27 @@
+type: ImpactReactor
+name: Парашный реактор
+description: ААААААААААААААААААААААААААААААААААААААААААА.
+size: 4
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemDuration: 80
+powerProduction: 250
+plasmas: 3
+consumes: {
+ power: 10
+ liquid: parasha-water+/1
+  items: {
+    items: [
+      parasha+/10
+    ]
+    optional: true
+  }
+}
+requirements: [
+  parasha/820
+  silicon/1500
+  surge-alloy/550
+]
+category: power
+research: thorium-reactor

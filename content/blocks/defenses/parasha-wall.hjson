@@ -1,0 +1,10 @@
+name: Парашная стена
+description: Стена из парашы. Чуть слабее титана.
+type: Wall
+health: 390
+size: 1
+requirements: [
+  parasha/6
+]
+category: defense
+research: copper-wall
