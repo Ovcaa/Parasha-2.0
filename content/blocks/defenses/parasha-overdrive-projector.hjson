@@ -3,8 +3,9 @@ name: Парашный ускоритель
 description: Параша ваще.
 health: 500
 size: 4
-range: 400
+range: 325
 reload: 15
+itemCapacity: 25
 speedBoost: 3.5
 speedBoostPhase: 2
 phaseRangeBoost: 100
@@ -12,8 +13,8 @@ consumes: {
  power: 75
  items: {
     items: [
-      parasha+/75
-      surge-alloy/1
+      parasha+/20
+      surge-alloy/5
     ]
   }
 }
