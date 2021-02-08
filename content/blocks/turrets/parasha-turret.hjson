@@ -13,14 +13,14 @@ ammoTypes: {
   parasha: {
    type: LaserBulletType
     length: 300
-    damage: 3730
+    damage: 2730
     width: 25
     lifetime: 60
     lightningSpacing: 10
     lightningLength: 30
     lightningDelay: 1.0
     lightningLengthRand: 7
-    lightningDamage: 650
+    lightningDamage: 450
     lightningAngleRand: 30
     largeHit: true
     shootEffect: lancerLaserShoot
