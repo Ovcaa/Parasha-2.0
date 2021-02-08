@@ -6,6 +6,7 @@ hasPower: true
 hasLiquids: true
 hasItems: true
 itemDuration: 80
+liquidCapacity: 65
 powerProduction: 250
 plasmas: 3
 consumes: {
