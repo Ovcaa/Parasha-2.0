@@ -11,7 +11,7 @@ powerProduction: 250
 plasmas: 3
 consumes: {
  power: 10
- liquid: parasha-water+/1
+ liquid: parasha-water+/0.2
   items: {
     items: [
       parasha+/10
