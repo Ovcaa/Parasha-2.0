@@ -1,0 +1,10 @@
+name: Улучшенная парашная стена
+description: Улучшенная стена из парашы. Самая сильная.
+type: Wall
+health: 1615
+size: 1
+requirements: [
+  parasha+/48
+]
+category: defense
+research: parasha-wall-huge
